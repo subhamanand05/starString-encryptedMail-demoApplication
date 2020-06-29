@@ -6,7 +6,8 @@ This repository contains source code for following project:
 	-  sending an HTML email to an internal server (without the disclaimer), encrypted with DES, with the retry functionality
 	-  sending an HTML email to an outside resource, with a disclaimer added at the end and encrypted with AES with retries in case of errors
 	-  sending a plain text email to an outside resource (with a disclaimer) and encrypted first with DES and then with AES
-Software Used are as below:
+
+Softwares used are as below:
 a) Java 1.8
 b) Spring Boot 2.2.5.RELEASE
 c) Inellij IDEA
