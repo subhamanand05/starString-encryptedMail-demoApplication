@@ -1,0 +1,7 @@
+Hi,
+
+You are receiving this mail on {{today}} from my assignment.
+
+
+Thanks,
+Assignment Demo
